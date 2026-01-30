@@ -38,7 +38,7 @@ Enter number of chickens sold and selling price
 System generates a full financial and production report
 
 📷 Example Report Output
-![Poultry Farm Screenshot](greenfieid_farm.png)
+![Poultry Farm Screenshot](greenfield_farm.png)
 
 🛠️ Technologies Used
 
