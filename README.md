@@ -38,7 +38,8 @@ Enter number of chickens sold and selling price
 System generates a full financial and production report
 
 📷 Example Report Output
-![Poultry_Farm Screenshot](greenfieid_farm.png)
+![Poultry_Farm Screenshot](greenfieid_farm.py.png)
+
 🛠️ Technologies Used
 
 Python 3
