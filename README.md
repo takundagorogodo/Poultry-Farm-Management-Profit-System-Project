@@ -38,21 +38,6 @@ Enter number of chickens sold and selling price
 System generates a full financial and production report
 
 📷 Example Report Output
-==================================================
-        GREENFIELD POULTRY FARM REPORT
-==================================================
-Initial Capital              : $5000.00
-Total Expenses               : $3120.50
-Starter Feed Remaining (kg)  : 120.00
-Grower Feed Remaining (kg)   : 95.00
-Finisher Feed Remaining (kg) : 40.00
-Sales Income                 : $4200.00
-Final Capital                : $6079.50
-Mortality Rate               : 4.25%
-
-NET PROFIT : $1079.50
-FINAL STATUS : PROFIT — BUSINESS DOING GREAT
-
 
 🛠️ Technologies Used
 
